@@ -1,0 +1,1 @@
+"Node.js tarafından sağlanan bir kütüphaneyi kullanarak bir dosya okumak"
